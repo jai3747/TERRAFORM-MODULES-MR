@@ -1,0 +1,5 @@
+# ignore root repo terraform files
+.terraform/
+
+# other files
+.terraform.lock.hcl
